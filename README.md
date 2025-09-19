@@ -111,7 +111,7 @@ httpd.serve_forever()
 '''
 # OUTPUT:
 
- ![alt text](2025-09-19 (3).png)
+ ![alt text](2025-09-19(3).png)
  ![alt text](2025-09-19.png)
      
 # RESULT:
